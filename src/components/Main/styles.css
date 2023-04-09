@@ -1,0 +1,19 @@
+.main {
+  padding: 2em;
+  margin: 1em;
+  border: 1px solid grey;
+}
+
+.main {
+  text-align: left;
+}
+
+.main__title {
+  font-weight: bold;
+  font-size: 1.5em;
+  padding-bottom: 0.5em;
+}
+
+.main__text, .main__list--item {
+  color: grey;
+}

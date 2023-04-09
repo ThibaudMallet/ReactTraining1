@@ -1,0 +1,40 @@
+.app {
+  width: 500px;
+  margin: 1em auto;
+  text-align: center;
+}
+
+.app img {
+  max-width: 150px;
+}
+
+.main, .footer{
+  padding: 2em;
+  margin: 1em;
+  border: 1px solid grey;
+}
+
+.main {
+  text-align: left;
+}
+
+.main__title, .footer__title {
+  font-weight: bold;
+  font-size: 1.5em;
+  padding-bottom: 0.5em;
+}
+
+.main__text, .footer__text, .main__list--item {
+  color: grey;
+}
+
+.main__list--item {
+  background-color: beige;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.header__title {
+  font-weight: bold;
+  font-size: 2em;
+}

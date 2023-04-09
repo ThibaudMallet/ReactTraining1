@@ -1,0 +1,9 @@
+.main__list--item {
+  color: grey;
+}
+
+.main__list--item {
+  background-color: beige;
+  margin: 0.5em;
+  padding: 0.5em;
+}
